@@ -42,7 +42,7 @@ int main(){
         new_number = (new_number + 1) % 26 + 65;
         char new_char = (char) new_number;
 
-        cout << "CRYPTO: " << new_char;
+        cout << "CRYPTO: " << new_char << endl;
 
     }
 

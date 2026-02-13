@@ -42,7 +42,7 @@ int main(){
         num2 /= 3;
     }
 
-    cout << " when numbers are in ternary format is: " << distance;
+    cout << " when numbers are in ternary format is: " << distance << endl;
 
     return 0;
 

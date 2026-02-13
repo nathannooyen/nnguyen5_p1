@@ -23,7 +23,7 @@ int main(){
     cout << " (" << x_1 << ", " << y_1 << ") and (" << x_2 << ", " << y_2 << ") is ";
     std::cout << std::fixed << std::setprecision(2);
 
-    cout << distance;
+    cout << distance << endl;
 
     return 0; 
 

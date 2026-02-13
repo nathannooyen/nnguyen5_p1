@@ -76,7 +76,7 @@ int main(){
     //output to console
     cout << "The total bill pre-tip is: $" << pre_tip_bill;
     cout << "\nThe total tip is: $" << total_tip;
-    cout << "\nThe total bill post-tip is: $" << final_bill;
+    cout << "\nThe total bill post-tip is: $" << final_bill << endl;
     
     return 0;
 }
